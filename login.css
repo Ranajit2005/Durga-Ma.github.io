@@ -1,0 +1,123 @@
+.frame {
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .frame .div {
+    background-color: rgba(255, 255, 255, 1);
+    background: linear-gradient(
+      180deg,
+      rgb(254, 167, 62) 0.67%,
+      rgb(254, 171, 65) 20.28%,
+      rgb(253, 186, 73) 49.48%,
+      rgb(254, 174, 67) 72.34%,
+      rgb(240, 151, 55) 100%
+    );
+    width: 1481px;
+    height: 720px;
+    position: relative;
+  }
+  
+  .frame .happy-durga-puja {
+    position: absolute;
+    width: 786px;
+    height: 720px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .frame .overlap-group {
+    position: absolute;
+    width: 450px;
+    height: 490px;
+    top: 115px;
+    left: 906px;
+    background-color: #fff6ad;
+    border-radius: 72px;
+  }
+  
+  .frame .text-wrapper {
+    position: absolute;
+    width: 136px;
+    top: 81px;
+    left: 157px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 50px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .overlap {
+    position: absolute;
+    width: 326px;
+    height: 60px;
+    top: 186px;
+    left: 62px;
+    border-radius: 30px;
+  }
+  
+  .frame .rectangle {
+    position: absolute;
+    width: 326px;
+    height: 60px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 30px;
+  }
+  
+  .frame .text-wrapper-2 {
+    position: absolute;
+    width: 72px;
+    top: 18px;
+    left: 34px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #b3afa4;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .frame .overlap-2 {
+    position: absolute;
+    width: 326px;
+    height: 60px;
+    top: 282px;
+    left: 62px;
+    border-radius: 30px;
+  }
+  
+  .frame .text-wrapper-3 {
+    position: absolute;
+    width: 110px;
+    top: 18px;
+    left: 34px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #b3afa4;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  .rd{
+    font-style: italic bold;
+    font-size: 20px;
+    border: #fcf7e7;
+    
+}
+.up{
+  position: absolute;
+    right: 70px;
+    top: 430px;
+    color: #000000;
+    font-size: 25px bold;
+}

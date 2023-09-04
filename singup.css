@@ -1,0 +1,180 @@
+.desktop {
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .desktop .div {
+    background-color: rgba(255, 255, 255, 1);
+    background: linear-gradient(180deg, rgb(245, 156, 60) 0%, rgb(254, 185, 71) 50.52%, rgb(252, 160, 61) 95.31%);
+    width: 1480px;
+    height: 720px;
+    position: relative;
+  }
+  
+  .desktop .overlap-group {
+    position: absolute;
+    width: 450px;
+    height: 580px;
+    top: 75px;
+    left: 909px;
+    background-color: #fff6ad;
+    border-radius: 72px;
+  }
+  
+  .desktop .overlap {
+    position: absolute;
+    width: 326px;
+    height: 60px;
+    top: 126px;
+    left: 63px;
+    border-radius: 30px;
+  }
+  
+  .desktop .rectangle {
+    position: absolute;
+    width: 326px;
+    height: 60px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 30px;
+  }
+  
+  .desktop .text-wrapper {
+    position: absolute;
+    width: 257px;
+    top: 19px;
+    left: 34px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #0000004a;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .overlap-2 {
+    position: absolute;
+    width: 326px;
+    height: 60px;
+    top: 312px;
+    left: 63px;
+    border-radius: 30px;
+  }
+  
+  .desktop .text-wrapper-2 {
+    position: absolute;
+    width: 72px;
+    top: 18px;
+    left: 34px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #b3afa4;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .overlap-3 {
+    position: absolute;
+    width: 326px;
+    height: 60px;
+    top: 405px;
+    left: 63px;
+    border-radius: 30px;
+  }
+  
+  .desktop .text-wrapper-3 {
+    position: absolute;
+    width: 110px;
+    top: 18px;
+    left: 34px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #b3afa4;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .overlap-4 {
+    position: absolute;
+    width: 326px;
+    height: 60px;
+    top: 215px;
+    left: 63px;
+    border-radius: 30px;
+  }
+  
+  .desktop .text-wrapper-4 {
+    position: absolute;
+    width: 123px;
+    top: 22px;
+    left: 34px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #b3afa4;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .text-wrapper-5 {
+    position: absolute;
+    width: 192px;
+    top: 36px;
+    left: 127px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 50px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop .already-a-registered {
+    position: absolute;
+    top: 470px;
+    left: 70px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: transparent;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .desktop .span {
+    color: #000000ad;
+  }
+  
+  .desktop .text-wrapper-6 {
+    color: #272dc0ad;
+  }
+  
+  .desktop .happy-durga-puja {
+    position: absolute;
+    width: 786px;
+    height: 720px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  .rd{
+    font-style: italic bold;
+    font-size: 20px;
+    border: #fcf7e7;
+    
+}
+.sub{
+  position: absolute;
+  left: 130px;
+}

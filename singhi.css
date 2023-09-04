@@ -1,0 +1,234 @@
+.frame {
+    background-color: #c4c4c4;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .frame .overlap-group-wrapper {
+    background-color: #c4c4c4;
+    width: 1482px;
+    height: 1095px;
+  }
+  
+  .frame .overlap-group {
+    position: relative;
+    height: 1095px;
+    background-image: url(frame.jpeg);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .frame .text-wrapper {
+    position: absolute;
+    width: 888px;
+    top: 162px;
+    left: 244px;
+    text-shadow: 0px 4px 4px #00000040;
+    -webkit-text-stroke: 0.8px #8f4814;
+    font-family: "Sacramento-Regular", Helvetica;
+    font-weight: 400;
+    color: #8f4814;
+    font-size: 52px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .the-puja-is {
+    position: absolute;
+    width: 980px;
+    top: 505px;
+    left: 243px;
+    -webkit-text-stroke: 0.3px #000000;
+    font-family: "Scope One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 25px;
+  }
+  
+  .frame .div {
+    position: absolute;
+    top: 641px;
+    left: 244px;
+    -webkit-text-stroke: 0.3px #000000;
+    font-family: "Scope One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 25px;
+    white-space: nowrap;
+  }
+  
+  .frame .p {
+    position: absolute;
+    width: 593px;
+    top: 596px;
+    left: 245px;
+    -webkit-text-stroke: 0.3px #000000;
+    font-family: "Scope One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 25px;
+  }
+  
+  .frame .overlap {
+    position: absolute;
+    width: 425px;
+    height: 215px;
+    top: 692px;
+    left: 244px;
+  }
+  
+  .frame .park-palace-hotel {
+    position: absolute;
+    width: 425px;
+    top: 39px;
+    left: 0;
+    -webkit-text-stroke: 0.3px #000000;
+    font-family: "Scope One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 25px;
+  }
+  
+  .frame .rectangle {
+    position: absolute;
+    width: 424px;
+    height: 175px;
+    top: 40px;
+    left: 1px;
+    background-color: #d9d9d9;
+    mix-blend-mode: soft-light;
+  }
+  
+  .frame .text-wrapper-2 {
+    position: absolute;
+    top: 5px;
+    left: 0;
+    -webkit-text-stroke: 0.3px #000000;
+    font-family: "Scope One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 25px;
+    white-space: nowrap;
+  }
+  
+  .frame .rectangle-2 {
+    position: absolute;
+    width: 124px;
+    height: 40px;
+    top: 0;
+    left: 1px;
+    background-color: #d9d9d9;
+    mix-blend-mode: soft-light;
+  }
+  
+  .frame .overlap-2 {
+    position: absolute;
+    width: 479px;
+    height: 215px;
+    top: 692px;
+    left: 820px;
+  }
+  
+  .frame .rectangle-3 {
+    position: absolute;
+    width: 182px;
+    height: 38px;
+    top: 0;
+    left: 0;
+    background-color: #d9d9d9;
+    mix-blend-mode: soft-light;
+  }
+  
+  .frame .frank-ross-pharmacy {
+    position: absolute;
+    width: 479px;
+    top: 37px;
+    left: 0;
+    -webkit-text-stroke: 0.3px #000000;
+    font-family: "Scope One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 25px;
+  }
+  
+  .frame .rectangle-4 {
+    position: absolute;
+    width: 479px;
+    height: 177px;
+    top: 38px;
+    left: 0;
+    background-color: #d9d9d9;
+    mix-blend-mode: soft-light;
+  }
+  
+  .frame .overlap-3 {
+    position: absolute;
+    width: 178px;
+    height: 55px;
+    top: 998px;
+    left: 1121px;
+    background-color: #c89651;
+    border-radius: 40px;
+    border: 1px solid;
+    border-color: #000000;
+    box-shadow: inset 0px 4px 4px #00000040, inset 0px 4px 4px #00000040;
+  }
+  
+  .frame .rectangle-5 {
+    position: absolute;
+    width: 178px;
+    height: 55px;
+    top: -1px;
+    left: -1px;
+    background-color: #c89651;
+    border-radius: 40px;
+    border: 1px solid;
+    border-color: #000000;
+    box-shadow: inset 0px 4px 4px #00000040, inset 0px 4px 4px #00000040;
+  }
+  
+  .frame .text-wrapper-3 {
+    position: absolute;
+    width: 97px;
+    top: 12px;
+    left: 30px;
+    -webkit-text-stroke: 1px #000000;
+    font-family: "Short Stack-Regular", Helvetica;
+    font-weight: 400;
+    color: #562f10;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: 25px;
+  }
+  
+  .frame .image {
+    height: 188px;
+    left: 787px;
+    position: absolute;
+    width: 414px;
+    top: 295px;
+    object-fit: cover;
+  }
+  
+  .frame .img {
+    height: 187px;
+    left: 244px;
+    position: absolute;
+    width: 414px;
+    top: 295px;
+    object-fit: cover;
+  }

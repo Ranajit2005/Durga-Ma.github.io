@@ -1,0 +1,24 @@
+
+  body{
+    /* background-color: purple; */
+    background-image: url(Transition.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    /* padding-bottom: 100px; */
+  }
+  *{
+    margin: 0;
+    padding: 0;
+  }
+
+  .Ma{
+    margin-top: 70px;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: azure;
+    text-align: center;
+  }
+  .r{
+    color: aqua;
+  }
